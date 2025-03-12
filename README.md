@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0724-find-pivot-index) |
+| [1769-get-maximum-in-generated-array](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Simulation
+|  |
+| ------- |
+| [1769-get-maximum-in-generated-array](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
 <!---LeetCode Topics End-->
