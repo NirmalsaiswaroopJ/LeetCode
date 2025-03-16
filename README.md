@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0229-majority-element-ii) |
 | [0724-find-pivot-index](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0724-find-pivot-index) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1769-get-maximum-in-generated-array](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0229-majority-element-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
@@ -50,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
