@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0229-majority-element-ii) |
 | [0724-find-pivot-index](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0724-find-pivot-index) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0189-rotate-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Geometry
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
