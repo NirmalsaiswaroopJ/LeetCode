@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-get-maximum-in-generated-array](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/3430-count-days-without-meetings) |
 ## Prefix Sum
 |  |
