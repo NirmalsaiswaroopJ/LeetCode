@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0275-h-index-ii) |
 | [0724-find-pivot-index](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0724-find-pivot-index) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1769-get-maximum-in-generated-array](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0275-h-index-ii](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0275-h-index-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
