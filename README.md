@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0274-h-index) |
 | [0724-find-pivot-index](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0724-find-pivot-index) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1769-get-maximum-in-generated-array](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0274-h-index) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
