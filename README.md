@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0275-h-index-ii) |
 | [0724-find-pivot-index](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0724-find-pivot-index) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0275-h-index-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0268-missing-number) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Geometry
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0274-h-index) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -123,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0274-h-index) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
