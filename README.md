@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0275-h-index-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0724-find-pivot-index) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1769-get-maximum-in-generated-array](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0724-find-pivot-index) |
 ## Binary Search
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/NirmalsaiswaroopJ/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
