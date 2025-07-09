@@ -8,16 +8,11 @@ class Solution {
             for(int j = 0; j< col_len; j++){
                 if(matrix[i][j] == 0){
                     row_pos.add(i);
-                }
-            }
-        }
-        for(int i = 0; i< row_len; i++){
-            for(int j = 0; j < col_len; j++){
-                if(matrix[i][j] == 0){
                     col_pos.add(j);
                 }
             }
         }
+        
         for(int i = 0; i< row_len; i++){
             for(int j = 0; j < col_len; j++){
                 if(row_pos.contains(i)){
